@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /*
  * Pointer Comparison Limitations:
  * -------------------------------
@@ -17,6 +16,8 @@
  * - Pointer comparisons are meaningful only within the same array or memory block.
  * - Subtracting pointers gives the number of elements (not bytes) between them.
  */
+
+
 
 int main()
 {
